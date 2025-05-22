@@ -13,7 +13,7 @@ This project automatically extracts **photo-like images** from a PDF document, e
 
 ## 🚀 Getting Started
 
-1. Open the [Colab notebook](link_to_colab).
+1. Open the [Colab notebook]photo_extractor.ipynb.
 2. Upload your PDF.
 3. The notebook detects and crops image-like areas.
 4. Download the ZIP of extracted images.
