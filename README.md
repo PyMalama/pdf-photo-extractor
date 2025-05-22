@@ -1,6 +1,8 @@
 # pdf-photo-extractor
 Extracts photo-like images from PDF pages using Python and OpenCV
 # 📸 PDF Photo Extractor
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyMalama/pdf-photo-extractor/blob/main/photo_extractor_colab.ipynb)
+
 
 This project automatically extracts **photo-like images** from a PDF document, even when the images are not embedded but are instead part of vector-rendered or scanned pages.
 
